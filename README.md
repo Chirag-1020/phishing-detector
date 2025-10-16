@@ -28,4 +28,5 @@ streamlit run app.py
 3. Get instant phishing detection results
 
 ## Deployment
-Deployed on Streamlit Cloud: [Your Link Here]
+Deployed on Streamlit Cloud: https://phishing-detector1020.streamlit.app/
+
